@@ -1,2 +1,7 @@
 # bloco_de_notas
- Estrutura de Dados de um projeto de bloco de notas, que armazena titulo e o texto, que permite inserção por insert sort, apresentação de todas anotações crescente e decrescente pelo titulo, exclusão das anotações pelo titulo e busca das anotações pelo titulo.
+ Estrutura de Dados de um projeto de bloco de notas, com as seguintes funções:
+Armazenar titulo e o texto utilizando Insertion Sort;
+Apresentação de todas anotações crescente pelo titulo;
+Apresentação de todas anotações decrescente pelo titulo, utilizando uma Lista Auxiliar;
+Exclusão das anotações pelo titulo;
+Busca das anotações pelo titulo.
